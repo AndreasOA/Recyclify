@@ -1,0 +1,67 @@
+{
+   
+    "color-basic-100": "#FFFFFF",
+    "color-basic-200": "#F0F0F0",
+    "color-basic-300": "#F7F8F9",
+    "color-basic-400": "#F8F8F8",
+    "color-basic-500": "#F3F6FE",
+    "color-basic-600": "#FBFBFB",
+  
+    "color-placeholder-100": "#ABA4AC",
+    "color-placeholder-200": "#EAE8EA",
+    "color-transparent-50": "#FFFFFF50",
+
+    "color-main-100": "#12051d",
+    "color-main-200": "#14051d",
+    "color-main-300": "#16051d",
+    "color-main-400": "#18051d",
+    "color-main-500": "#1A051D",
+
+    "color-primary-100": "#584bea",
+    "color-primary-200": "#4b4cea",
+    "color-primary-300": "#4b59ea",
+    "color-primary-400": "#4B66EA",
+    "color-primary-500": "#4b73ea",
+
+    "color-secondary-100": "#8969f8",
+    "color-secondary-200": "#7d69f8",
+    "color-secondary-300": "#7169f8",
+    "color-secondary-400": "#696df8",
+    "color-secondary-500": "#6979F8",
+
+    "color-warning-100": "#ff985c",
+    "color-warning-200": "#ffa65c",
+    "color-warning-300": "#ffb45c",
+    "color-warning-400": "#ffc15c",
+    "color-warning-500": "#FFCF5C",
+
+    "color-danger-100": "#fe0026",
+    "color-danger-200": "#ff183b",
+    "color-danger-300": "#ff3151",
+    "color-danger-400": "#ff4b66",
+    "color-danger-500": "#FF647C",
+
+    "color-green-100": "#00c4bd",
+    "color-green-200": "#00c4ad",
+    "color-green-300": "#00c49c",
+    "color-green-400": "#00c49c",
+    "color-green-500": "#00c48c",
+
+    "color-brown-100": "#6D5F6F",
+    "color-brown-200": "#6e5273",
+    "color-brown-300": "#5f4764",
+    "color-brown-400": "#513d55",
+    "color-brown-500": "#433246",
+  
+    "color-blue-100": "#0f7381",
+    "color-blue-200": "#0f6981",
+    "color-blue-300": "#0f5f81",
+    "color-blue-400": "#0f5681",
+    "color-blue-500": "#0F4C81",
+  
+    "color-blue-sky-100": "#00d5f4",
+    "color-blue-sky-200": "#00c1f4",
+    "color-blue-sky-300": "#00adf4",
+    "color-blue-sky-400": "#0098f4",
+    "color-blue-sky-500": "#0084f4"
+  }
