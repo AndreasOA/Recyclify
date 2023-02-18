@@ -1,12 +1,15 @@
 # Recyclify
 
-This repository contains our app submission for the mobile computing course.
+![alt Recyclify](https://public-files.gumroad.com/qgcr6qffgh6hbnu39kg77fcmzef4)
+
+Introducing Recyclify - the ultimate app for all your recycling needs! 
+
+With Recyclify, you can easily find recycling recommendations in your area based on your current location. Whether you're looking to recycle old electronics or dispose of hazardous materials safely, Recyclify has got you covered. But that's not all - Recyclify is also a marketplace for buying and selling used, old, or damaged items. By connecting you with buyers and sellers in your local community, Recyclify helps you reduce waste and give new life to items that might have otherwise ended up in the landfill.
 
 This app was created in the process of three months by [Florian Rothkegel](https://github.com/FlorianRothkegel) and me.
 
-Recyclify should help humans to find new Recycling possibilites in their area. Additionally, they can add buy and sell offers for used items in the built-in marketplace to encurage Reusability.
-
 ## Installation
+We used Expo for testing. Therefore, if you might want to check it out, [here](https://docs.expo.dev/get-started/installation/) is the link.
 
 Use the package manager [yarn](https://yarnpkg.com/) to install the necessary node_modules.
 
@@ -14,8 +17,19 @@ Use the package manager [yarn](https://yarnpkg.com/) to install the necessary no
 yarn install
 ```
 
-Setup a firebase account and store the necessary credentials in a file named config.json
+Setup a [firebase](https://cloud.google.com/firestore/docs/client/get-firebaseaccount) and store the necessary credentials in a file named config.json. 
+The config.json should look as follows:
 
+```json
+{
+    "apiKey": "XXX",
+    "authDomain": "XXX",
+    "projectId": "XXX",
+    "storageBucket": "XXX",
+    "messagingSenderId": "XXX",
+    "appId": "XXX"
+}
+```
 
 ## Usage
 
