@@ -1,6 +1,6 @@
 # Recyclify
 
-![alt Recyclify](https://public-files.gumroad.com/qgcr6qffgh6hbnu39kg77fcmzef4)
+![alt Recyclify](https://public-files.gumroad.com/variants/dcqpb9lcn6v4keyu0s0bm32mw4fp/e0ddf2845d6754a0c54b1d16a396ca5841c8ebbcdeb8a3398000ede2ee0d6b9e)
 
 Introducing Recyclify - the ultimate app for all your recycling needs! 
 
